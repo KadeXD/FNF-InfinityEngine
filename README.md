@@ -1,6 +1,6 @@
 # Friday Night Funkin': Infinity Engine
 
-### If you want to contribute to Kade Engine, read [this](https://github.com/KadeXD/FNF-InfinityEngine/blob/main/CONTRIBUTING.md) first.
+### If you want to contribute to Infinity Engine, read [this](https://github.com/KadeXD/FNF-InfinityEngine/blob/main/CONTRIBUTING.md) first.
 
 
 ## Friday Night Funkin'
